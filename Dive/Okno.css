@@ -1,0 +1,24 @@
+#Okno {
+	height: 500px;
+	width: 1200px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+	border: 10px solid #666;
+	background-color: #999;
+	color: #FFF;
+	font-size: 36px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: capitalize;
+}
+#Okno #ФАФ {
+	margin-left: 100px;
+}
+#Okno ul #ФСФ {
+	margin-top: 20px;
+}
+#Okno #ФАФ #Snupi {
+	float: right;
+	margin-right: 100px;
+}
